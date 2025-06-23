@@ -1,5 +1,5 @@
 # NBA Finals 2025 Analysis Tool
-
+ 
 A comprehensive statistical analysis tool for the NBA Finals 2025, determining MVP, All-Finals Team, and All-Defensive Team selections through advanced metrics and data visualization.
 
 ## Project Structure
