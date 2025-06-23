@@ -40,7 +40,7 @@ The tool automatically loads Finals statistics data and performs comprehensive a
 
 ## Core Features
 
-### 🏆 Award Determinations
+### Award Determinations
 
 #### Finals MVP Analysis
 - **Weighted Scoring Algorithm** (0-100 scale):
@@ -65,7 +65,7 @@ The tool automatically loads Finals statistics data and performs comprehensive a
   - **Rebounding Defense (15%)**: Total rebound% and limiting offensive rebounds
   - **Consistency (10%)**: Minutes played, foul management
 
-### 📊 Data Visualization
+### Data Visualization
 
 The tool generates five comprehensive visualization sets:
 
@@ -95,7 +95,7 @@ The tool generates five comprehensive visualization sets:
    - All-Defensive Team comparison
    - Team defensive metrics comparison
 
-### 📈 Data Export
+### Data Export
 
 #### Single CSV Output
 - **`NBA_Finals_2025_Awards.csv`** - Comprehensive awards file containing:
